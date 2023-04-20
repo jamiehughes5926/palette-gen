@@ -6,6 +6,16 @@
   justify-content: center;
 }
 
+@font-face {
+  font-family: "MyFont";
+  src: url("/public/fonts/emerson.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+.banner {
+  font-family: "MyFont", sans-serif;
+}
+
 .content {
   display: flex;
   align-items: center;

@@ -14,7 +14,7 @@ body {
   font-family: "Poppins", sans-serif;
 
   height: 100vh;
-  background: #1e1e1e;
+  background: #b2decd;
   font-size: 1.2rem;
   color: #6c7983;
 }
@@ -34,11 +34,10 @@ header {
 }
 
 header h1 {
-  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 2.5rem;
   font-weight: 800;
 
-  background: linear-gradient(110.42deg, #cf57a3 29.2%, #27ae60 63.56%);
+  background: white;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
