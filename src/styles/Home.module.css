@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-transform: uppercase;
 }
 
 @font-face {
@@ -62,7 +63,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-
   font-weight: 600;
   color: #02203c;
   background-color: rgba(255, 255, 255, 0.14);
